@@ -1,3 +1,6 @@
+""""내일꼭 다시 봐주세요 ㅠㅠ """
+
+
 class myclass:
 def __init__(self):
 	self.poly_mod_deg;
